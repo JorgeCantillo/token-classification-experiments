@@ -1,0 +1,8 @@
+pandas
+transformers
+datasets
+seqeval
+evaluate
+accelerate
+peft
+matplotlib
