@@ -1,5 +1,5 @@
 # Token Classification / Entity Recognition Experiments
-A series of notebooks to carry experiments on the token classification task with different datasets, finetuning techniques, and pre-trained models. 
+A series of notebooks to carry experiments on the token classification task with different datasets, fine-tuning techniques, and pre-trained models. 
 
 
 ### Description:
@@ -8,11 +8,11 @@ A series of notebooks to carry experiments on the token classification task with
 
     <a href=https://github.com/JorgeCantillo/token-classification-experiments/blob/main/cord_ner_token_classification_data_preprocessing.ipynb>cord_ner_token_classification_data_preprocessing</a>
 
-2. Full-finetuning a BERT model on the token classification task.
+2. Full fine-tuning a BERT model on the token classification task.
 
     <a href=https://github.com/JorgeCantillo/token-classification-experiments/blob/main/cord_ner_token_classification_training.ipynb>cord_ner_token_classification_training</a>
 
-3. <b>Upcoming:</b> PEFT-Finetuning same BERT model on the token classsification task but using LORA. 
+3. <b>Upcoming:</b> PEFT(LORA) fine-tuning same BERT model on the token classsification task. 
 
 ### Prerequisites:
 - Python 3.11
